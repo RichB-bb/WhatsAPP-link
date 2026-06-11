@@ -1,1 +1,1 @@
-https://api.whatsapp.com/send/?phone=12345678&text&app_absent=0
+https://api.whatsapp.com/send/?phone=84824153555&text&app_absent=0
