@@ -6,8 +6,8 @@ https://api.whatsapp.com/send/?phone=17472550603&text&type=phone_number&app_abse
 https://api.whatsapp.com/send/?phone=9779743812359&text&type=phone_number&app_absent=0
 https://api.whatsapp.com/send/?phone=18782310234&text&type=phone_number&app_absent=0
 https://api.whatsapp.com/send/?phone=16802489913&text&type=phone_number&app_absent=0
-
-
+https://api.whatsapp.com/send/?phone=244944242660&text&type=phone_number&app_absent=0
+https://api.whatsapp.com/send/?phone=84962848875&text&type=phone_number&app_absent=0
 
 
 
