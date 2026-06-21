@@ -2,7 +2,7 @@
 https://api.whatsapp.com/send/?phone=12087280680&text&type=phone_number&app_absent=0
 
 https://api.whatsapp.com/send/?phone=14304002343&text&type=phone_number&app_absent=0
-https://api.whatsapp.com/send/?phone=12709182665&text&type=phone_number&app_absent=0
+
 https://api.whatsapp.com/send/?phone=85244277971&text&type=phone_number&app_absent=0
 https://api.whatsapp.com/send/?phone=447784243061&text&type=phone_number&app_absent=0
 
