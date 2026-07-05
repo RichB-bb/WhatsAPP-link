@@ -2,5 +2,4 @@ https://api.whatsapp.com/send/?phone=12549029094&text&type=phone_number&app_abse
 https://api.whatsapp.com/send/?phone=14304002343&text&type=phone_number&app_absent=0
 https://api.whatsapp.com/send/?phone=14787078726&text&type=phone_number&app_absent=0
 https://api.whatsapp.com/send/?phone=19207776422&text&type=phone_number&app_absent=0
-https://api.whatsapp.com/send/?phone=12519006792&text&type=phone_number&app_absent=0
 https://api.whatsapp.com/send/?phone=14328427919&text&type=phone_number&app_absent=0
