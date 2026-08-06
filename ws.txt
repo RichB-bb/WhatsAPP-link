@@ -1,4 +1,4 @@
-https://api.whatsapp.com/send/?phone=18584210710&text&type=phone_number&app_absent=0
-https://api.whatsapp.com/send/?phone=12705699765&text&type=phone_number&app_absent=0
-https://api.whatsapp.com/send/?phone=17406096754&text&type=phone_number&app_absent=0
-https://api.whatsapp.com/send/?phone=17622887209&text&type=phone_number&app_absent=0
+https://wa.me/18584210710?text=Hello！
+https://wa.me/12705699765?text=Hello！
+https://wa.me/17406096754?text=Hello！
+https://wa.me/17622887209?text=Hello！
