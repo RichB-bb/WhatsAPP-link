@@ -4,4 +4,3 @@ https://api.whatsapp.com/send/?phone=13205145519&text&type=phone_number&app_abse
 https://api.whatsapp.com/send/?phone=14703007166&text&type=phone_number&app_absent=0
 https://api.whatsapp.com/send/?phone=18058237896&text&type=phone_number&app_absent=0
 https://api.whatsapp.com/send/?phone=17406096754&text&type=phone_number&app_absent=0
-https://api.whatsapp.com/send/?phone=17622887209&text&type=phone_number&app_absent=0
